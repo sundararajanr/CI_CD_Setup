@@ -1,1 +1,3 @@
 Flask==2.1.0
+git config --global github.user <<user_name>>
+git config --global github.token <<token>>
